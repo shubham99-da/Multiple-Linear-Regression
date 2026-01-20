@@ -1,1 +1,3 @@
 # Multiple-Linear-Regression
+
+This project, Hiring.ipynb, is a beginner-friendly data analysis project developed using Python in Jupyter Notebook. It focuses on exploring and analyzing hiring-related data to understand patterns and trends in recruitment. The project uses popular Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data cleaning, manipulation, and visualization. Key tasks include loading datasets, handling missing values, performing exploratory data analysis (EDA), and visualizing insights through charts and graphs. This project demonstrates basic data analysis skills and serves as a foundation for learning data science and machine learning workflows.
